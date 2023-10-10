@@ -1,0 +1,37 @@
+.box-grid{
+    display: grid;
+    grid-template-columns: 20% auto;
+    grid-template-rows: 10% auto;
+    background-color: #fcdee6;
+    gap: 10px;
+}
+.logo{
+    height: 80%;
+    width: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+h1{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+h2{
+    text-align: center;
+}
+
+nav{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+main{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 5px;
+}
+article{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 5px;
+}
